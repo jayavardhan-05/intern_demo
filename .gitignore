@@ -3,5 +3,4 @@
 !.env.example
 __pycache__/
 *.pyc
-result_*.json
 tmp/
